@@ -1,0 +1,13 @@
+#
+# ansible-galaxy install -r roles/requirements.yml --force
+# Examples (just remove # if used):
+#roles:
+  #- name: linux-system-roles
+
+  #- name: private_role
+  #  src: https://github.com/example/private_role.git
+  #  scm: git
+  #  version: main
+---
+roles: {}
+

@@ -1,0 +1,6 @@
+#
+# ansible-galaxy collection install -r collections/requirements.yml -p collections/
+#
+---
+collections:
+  - name: ansible.posix
